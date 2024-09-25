@@ -1,2 +1,3 @@
-# how_issam_code_java_fizz_buzz
-Just a sample of how I code the famous Fizz Buzz project in Java
+# How I code : FizzBuzz in Java with TDD
+
+Just an example of how I like code : the case of the famous Fizz Buzz project in Java,
